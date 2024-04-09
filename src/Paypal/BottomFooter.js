@@ -23,12 +23,14 @@ const BottomFooter = () => {
             <p className="text-sm text-blue-800 font bold mr-8">Partners</p>
             <p className="text-sm text-blue-800 font bold mr-8">Feedback</p>
             </div> 
+            <div className="h-[1.5vw] overflow-hidden">
             <div className="w-[2vw]">
                 <img src="https://img.freepik.com/premium-vector/american-flag-independence-day-fourth-july_506530-1495.jpg?size=626&ext=jpg" alt="usa" />
-
             </div>
+            </div>
+            
         </div>
-        <div className="text-blue-600 pt-5 pb-10 border-2 border-gray-400 border-t-0 mx-10 border-l-0 border-r-0 text-sm  pb-2 flex justify-between">
+        <div className="text-blue-600 pt-5 pb-10  mx-10  text-sm  pb-2 flex justify-between">
           <div className="flex w-7/12">
             <p className="text-sm text-blue-800 font-bold mr-8">About</p>
             <p className="text-sm text-blue-800 font-bold mr-8">Newsroom</p>

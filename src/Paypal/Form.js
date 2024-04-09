@@ -44,7 +44,7 @@ const Form = () => {
             <button className="border-2 border-gray-400 w-full h-5 border-b-0 rounded-t-md  mt-2 text-xs text-left" >Country*</button>
             <select className="border-2 border-gray-400 w-full h-6 border-t-0 border-b-0 rounded-b-md  mb-2">
               
-              <option value="United State">United State</option>
+              <option value="United State">United States</option>
               <option value="India">India</option>
               <option value="Britain">Britain</option>
               <option value="China">China</option>
@@ -52,10 +52,10 @@ const Form = () => {
             <button className="border-2 border-gray-400 w-full h-5 border-b-0 rounded-t-md  mt-2 text-xs text-left" >Estimated annual sale*</button>
             <select className="border-2 border-gray-400 w-full h-6 border-t-0 border-b-0 rounded-b-md  mb-2">
               
-              <option value="United State">United State</option>
-              <option value="India">India</option>
-              <option value="Britain">Britain</option>
-              <option value="China">China</option>
+              <option value="United State">Select Annual Sales</option>
+              <option value="India">Option 1</option>
+              <option value="Britain">Option 2</option>
+              <option value="China">Option 3</option>
             </select>
             <button className="border-2 border-gray-400 w-full h-5 border-b-0 rounded-t-md  mt-2 text-xs text-left" >Do you already have a paypal account?*</button>
             <select className="border-2 border-gray-400 w-full h-6 border-t-0 border-b-0 rounded-b-md  mb-2">
